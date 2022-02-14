@@ -1,11 +1,11 @@
 <h1 align="center">Hey there👋, Khalid here! </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iamkhalid2&label=Profile%20views&color=blueviolet" /> </p> 
 
-I’m currently working on multiple and cocurrently no projects
+I’m currently working on multiple or no projects.
 
-🌱 tryna learn interesting stuff to give an instance, stuff about GPT-3 and it's API's use cases
+🌱 tryna learn interesting stuff, to give an instance, stuff about GPT-3 and it's API's use cases and more(fr).
 
-😄 He/Him/That dude though
+😄 He/Him/That dude
 
 ⚡ a human appreciated and depreciated of 20 years or something
 
@@ -20,7 +20,7 @@ Right Now I'm
 * Not Working
 * Not Working
 * Not Working
-* Working with a 🔥
+* Working with a ✨
 
 <hr/> 
 
