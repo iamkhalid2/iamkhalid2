@@ -11,7 +11,7 @@ I’m currently working on multiple to no projects.
 
 <div align=right>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkhalid2&langs_count=10&theme=vision-friendly-dark&layout=compact&custom_title=I mostly use these languages😊" />
+      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkhalid2&langs_count=10&theme=aura&layout=compact&custom_title=I mostly use these languages😊" />
     </a>
 </div>
 
@@ -25,7 +25,7 @@ Right Now I'm
 <hr/> 
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=iamkhalid2&show_icons=true&theme=vision-friendly-dark&include_all_commits=true"/>
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=iamkhalid2&show_icons=true&theme=aura&include_all_commits=true"/>
  </a>
 <br />
 
