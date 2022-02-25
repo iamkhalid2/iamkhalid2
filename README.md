@@ -3,7 +3,7 @@
 
 I’m currently working on multiple to no projects.
 
-🌱 tryna learn interesting stuff, to give an instance, stuff about GPT-3 and it's API's use cases and more(fr).
+🌱 hella interested in new & evolving tech.
 
 😄 He/Him
 
