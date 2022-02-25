@@ -20,7 +20,7 @@ Right Now I'm
 * Not Working
 * Not Working
 * Not Working
-* Doing Magic 🧙
+* Doing  🪄
 
 <hr/> 
 
@@ -41,9 +41,4 @@ Right Now I'm
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" />
   </a>
 </p> 
- 
-<div align=center>
-    <a align="center" href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=iamkhalid2&theme=onedark&column=9" alt="zumrudu-anka" />
-    </a>
 </div>
