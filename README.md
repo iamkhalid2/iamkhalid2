@@ -3,7 +3,7 @@
 
 I’m currently working on multiple to no projects.
 
-🌱 hella interested in new & evolving tech.
+🌱 interested in new & evolving tech.
 
 😄 He/Him
 
@@ -20,7 +20,7 @@ Right Now I'm
 * Not Working
 * Not Working
 * Not Working
-* Doing  🪄
+* <img src = "https://media1.giphy.com/media/8gRh2KGCiOEnnELadd/giphy.gif" width = "40px">
 
 <hr/> 
 
@@ -29,7 +29,7 @@ Right Now I'm
  </a>
 <br />
 
-<h2 align="center">🙋‍♂️ Find me here! </h2>
+<h2 align="center"><img src = "https://media2.giphy.com/media/Dae9ysKiivOQ35REQw/giphy.gif" width = "40px"> Find me here! </h2>
 <p align="center">
   <a align="left" href="https://twitter.com/not_khalid_/">
     <img align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" />
