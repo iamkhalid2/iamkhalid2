@@ -15,7 +15,7 @@ I’m currently working on multiple to no projects.
     </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=iamkhalid2&show_icons=true&theme=aura&include_all_commits=true"/>
+      <img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=iamkhalid2&show_icons=true&theme=aura&include_all_commits=true"/>
  </a>
  
  <hr/> 
