@@ -20,6 +20,8 @@ I’m currently working on multiple to no projects.
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=iamkhalid2&show_icons=true&theme=aura&include_all_commits=true"/>
  </a>
+ <div align=center>
+</div>
 
 <h2 align="center"><img src = "https://media2.giphy.com/media/Dae9ysKiivOQ35REQw/giphy.gif" width = "40px"> Find me here! </h2>
 <p align="center">
