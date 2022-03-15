@@ -9,9 +9,6 @@ I’m currently working on multiple to no projects.
 
 ⚡ a human appreciated and depreciated of 20 years or something
 
-<div align=center>
-</div>
-
 <hr/> 
  <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkhalid2&langs_count=10&theme=aura&layout=compact&custom_title=I mostly use these languages😊" />
@@ -20,8 +17,8 @@ I’m currently working on multiple to no projects.
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=iamkhalid2&show_icons=true&theme=aura&include_all_commits=true"/>
  </a>
- <div align=center>
-</div>
+ 
+ <hr/> 
 
 <h2 align="center"><img src = "https://media2.giphy.com/media/Dae9ysKiivOQ35REQw/giphy.gif" width = "40px"> Find me here! </h2>
 <p align="center">
