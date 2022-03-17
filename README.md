@@ -5,7 +5,7 @@ I’m currently either learning something or creating something.
 
 💎 indulged in new & evolving tech.
 
-🎧 Just EDM
+🎧 just EDM
 
 👦 a human appreciated and depreciated of 20 years or something.
 
