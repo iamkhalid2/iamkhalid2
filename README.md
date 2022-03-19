@@ -1,6 +1,6 @@
 <h1 align="center">Hey there <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "30px">, Khalid here! </h1>
 
-I’m currently either learning something or creating something.
+I’m currently either learning interesting stuff or doing interesting stuff.
 
 💎 indulged in new & evolving tech.
 
