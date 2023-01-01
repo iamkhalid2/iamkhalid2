@@ -2,7 +2,7 @@
 
 I’m currently either learning interesting stuff or doing interesting stuff.
 
-💎 indulged in new & evolving tech.
+💎 indulged in fascinating tech out there.
 
 🎧 just EDM
 
