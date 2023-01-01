@@ -12,7 +12,7 @@ I’m currently either learning interesting stuff or doing interesting stuff.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
       <br>
       <br>
-      <img width=396 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkhalid2&langs_count=10&theme=aura&layout=compact&custom_title=My most used languages😊" />
+      <img width=396 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkhalid2&langs_count=10&theme=aura&layout=compact"/>
       <img width=396 align="center" src="https://github-readme-stats.vercel.app/api?username=iamkhalid2&show_icons=true&theme=aura&include_all_commits=true"/>
       
 <p  align="center">
