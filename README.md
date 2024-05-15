@@ -19,9 +19,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <h2 align="center"><img src = "https://media2.giphy.com/media/Dae9ysKiivOQ35REQw/giphy.gif" width = "40px"> Find me here! </h2>
 <p align="center">
-  <a align="left" href="https://twitter.com/not_khalid_/">
-    <img align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" />
-  </a>
   <a align="center" href="https://www.youtube.com/channel/UCjUQZaynOTZBSboZ_mNgh6w">
     <img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" />
   </a>
