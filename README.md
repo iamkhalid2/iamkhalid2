@@ -26,5 +26,5 @@
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" />
   </a>
 </p>
-<p align="center">Views:</p> 
+<p align="center">Peeps:</p> 
 <p align="center"><img src="https://profile-counter.glitch.me/iamkhalid2/count.svg" /> </p> 
